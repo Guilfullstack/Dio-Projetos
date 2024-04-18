@@ -1,0 +1,15 @@
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.deps.json
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.runtimeconfig.json
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.dll
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.pdb
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfo.cs
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.sourcelink.json
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.dll
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/refint/DesafioFundamentos.dll
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.pdb
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.genruntimeconfig.cache
+/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net8.0/ref/DesafioFundamentos.dll
