@@ -1,5 +1,0 @@
-/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
-/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
-/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
-/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
-/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaParaEstacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.sourcelink.json
