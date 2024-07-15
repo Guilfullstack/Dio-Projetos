@@ -3,6 +3,7 @@ using DesafioProjetoHospedagem.Models;
 
 internal class Program
 {
+    
     private static void Main(string[] args)
     {
         Console.OutputEncoding = Encoding.UTF8;

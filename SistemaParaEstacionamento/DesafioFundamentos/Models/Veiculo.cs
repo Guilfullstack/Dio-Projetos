@@ -1,7 +1,7 @@
 class Veiculo
 {
     public string Placa { get; set; }
-    public int Minutos { get; set; };
+    public int Minutos { get; set; }
     public decimal Horas => (Minutos / 60)-1; 
     private bool emEstacionamento = true; 
     private CancellationTokenSource cancellationTokenSource = new CancellationTokenSource();
