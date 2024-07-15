@@ -8,9 +8,9 @@ uma plataforma de ensino online dedicada a capacitar profissionais de tecnologia
 Aqui está a organização dos projetos dentro deste repositório:
 
 - **Branches por Formação ou Bootcamps:**
-  - **Formação 1:** Descrição da formação e seus projetos.
-  - **Formação 2:** Descrição da formação e seus projetos.
-  - **Formação 3:** Descrição da formação e seus projetos.
+  - **Formação .NetDeveloper:**
+  - **Formação FlutterEspecialist:**
+  - **Formação Logica de programação:**
   - ...
 
 Você pode explorar cada formação navegando pelas branches correspondentes neste repositório. Dentro de cada branch, os projetos estão organizados em suas respectivas pastas.
