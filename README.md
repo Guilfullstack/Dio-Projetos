@@ -9,5 +9,6 @@ Aqui está a organização dos projetos dentro deste repositório:
 
 - **Projeto:**
   - **SistemaParaEstacionamento** Um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações.
+  - **SistemaDeHospedagem** Um sistema basico que simula operações dos processos de Hospedagem;
     
 Você pode explorar cada projeto navegando pelos diretórios dessa branch.
