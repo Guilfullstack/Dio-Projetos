@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/guilherme/Dev-sistemas/Dio-projetos/SistemaDeHospedagem/DesafioProjetoHospedagem.csproj",
+      "projectUniqueName": "/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaDeHospedagem/DesafioProjetoHospedagem.csproj",
       "projectName": "DesafioProjetoHospedagem",
-      "projectPath": "/home/guilherme/Dev-sistemas/Dio-projetos/SistemaDeHospedagem/DesafioProjetoHospedagem.csproj",
+      "projectPath": "/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaDeHospedagem/DesafioProjetoHospedagem.csproj",
       "packagesPath": "/home/guilherme/.nuget/packages/",
-      "outputPath": "/home/guilherme/Dev-sistemas/Dio-projetos/SistemaDeHospedagem/obj/",
+      "outputPath": "/media/guilherme/Developer/Dev-sistemas/Dio-projetos/SistemaDeHospedagem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/guilherme/.nuget/NuGet/NuGet.Config"
